@@ -1,5 +1,5 @@
 Esto es simplemente un ejemplo de Git y Github.
 
-Por cierto, soy Santiago.
+Por cierto, soy Santiago CEO de 1% 
+aparte de Patrick Hodzic.
 
-Ademas soy CEO DE 1%
